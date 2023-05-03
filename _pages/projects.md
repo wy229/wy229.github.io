@@ -23,6 +23,9 @@ For the next part, we built a connection between human capital and the health of
 The original paper is attached as below for details!
 [Evaluating the Health of Higher Education System](https://drive.google.com/file/d/1-R65ymHykhTdiU25CWBaKbhOTHrmATCr/view?usp=sharing)
 
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 
 
