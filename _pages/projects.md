@@ -21,11 +21,10 @@ Based on these dimensions and indicators, we applied entropy weight method to as
 For the next part, we built a connection between human capital and the health of higher education system. Thus, we applied and improved the Lucas Human Capital model to simulate the long-term effect of recommended policies. We firstly applied regression models to calculate the variables from the indicators above, and we iterated the traditional two-period Lucas human capital model to do long term simulation. Finally, took China as an example, we successfully simulated and quantified the effect of policies aimed at improving the health of higher education system. 
 
 The original paper is attached as below for details!
+
 [Evaluating the Health of Higher Education System](https://drive.google.com/file/d/1-R65ymHykhTdiU25CWBaKbhOTHrmATCr/view?usp=sharing)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
 
 
 

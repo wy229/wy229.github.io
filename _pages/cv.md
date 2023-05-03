@@ -44,6 +44,3 @@ Service and leadership
 ======
 * NGO support in Romania
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
