@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Projects"
-permalink: /projects/
+permalink: wy229.github.io/projects/
 author_profile: true
 ---
 

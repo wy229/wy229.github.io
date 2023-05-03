@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: wy229.github.io/
 title: "About me"
 excerpt: "About me"
 author_profile: true
