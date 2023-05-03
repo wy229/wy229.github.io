@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: wy229.github.io/cv/
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
